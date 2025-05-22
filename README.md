@@ -30,6 +30,7 @@
 [野卡官网](https://yeka.ai/i/D4X7JXA7)
 
 https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image%EF%BC%89/%E9%87%8E%E5%8D%A1-1%E9%87%8E%E5%8D%A1%E5%AE%98%E7%BD%91.png
+
 ---
 
 ## 为什么选择野卡？
@@ -57,6 +58,8 @@ https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image
 | 5 | 填写英文姓名 → 同意须知 | 默认月限额 30 USD |
 | 6 | “我的卡片”中查看卡号 / CVV | 实名后可升至 500 USD |
 | 7 | 支付宝充值余额 | 余额不足连续失败会冻结，解冻费 1 USD |
+
+
 https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image%EF%BC%89/%E9%87%8E%E5%8D%A1-2%E6%B3%A8%E5%86%8C.png
 https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image%EF%BC%89/%E9%87%8E%E5%8D%A1-3%E5%BC%80%E9%80%9A.png
 https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image%EF%BC%89/%E9%87%8E%E5%8D%A1-4%E5%BC%80%E9%80%9A%E5%8D%A1%E7%89%87.png
