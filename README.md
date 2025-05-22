@@ -76,7 +76,7 @@ https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image
  
 https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image%EF%BC%89/%E9%87%8E%E5%8D%A1-6%E9%87%8E%E5%8D%A1%E5%85%85%E5%80%BC.png
 
-[野卡充值](野卡（image）/野卡-7野卡充值（支付宝）.png)
+![野卡充值](野卡（image）/野卡-7野卡充值（支付宝）.png)
 
 ---
 
