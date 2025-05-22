@@ -27,7 +27,8 @@
 - ChatGPT、Claude、Netflix、Spotify、Onlyfans等超多海外软件服务都支持；
 - 提供一键升级、网络加速和海外邮箱等增值服务。
 不论你要升级 ChatGPT Plus、订阅 Claude Pro，还是购买其他国际软件，野卡都能充当快速、安全的跨境支付通道。
-[野卡官网](https://yeka.ai/i/D4X7JXA7)
+
+前往👉[野卡官网](https://yeka.ai/i/D4X7JXA7)
 
 https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image%EF%BC%89/%E9%87%8E%E5%8D%A1-1%E9%87%8E%E5%8D%A1%E5%AE%98%E7%BD%91.png
 
@@ -75,7 +76,7 @@ https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image
  
 https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image%EF%BC%89/%E9%87%8E%E5%8D%A1-6%E9%87%8E%E5%8D%A1%E5%85%85%E5%80%BC.png
 
-https://github.com/wildcard-yeka/yeka/blob/main/%E9%87%8E%E5%8D%A1%EF%BC%88image%EF%BC%89/%E9%87%8E%E5%8D%A1-7%E9%87%8E%E5%8D%A1%E5%85%85%E5%80%BC%EF%BC%88%E6%94%AF%E4%BB%98%E5%AE%9D%EF%BC%89.png
+[野卡充值](野卡（image）/野卡-7野卡充值（支付宝）.png)
 
 ---
 
