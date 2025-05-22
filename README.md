@@ -1,4 +1,4 @@
-# 野卡 Wildcard 虚拟信用卡全攻略  
+# 野卡Wildcard最新使用指南：野卡注册、充值、使用及FAQ解答全流程攻略
 *更新：2025 年 5 月 22 日*
 
 > 最近我用**野卡**（原来叫Wildcard） 轻松给[ChatGPT Plus](https://github.com/wildcard-yeka/yeka-wildcard/blob/main/wildcard%E9%87%8E%E5%8D%A1%E5%A6%82%E4%BD%95%E8%AE%A2%E9%98%85ChatGPT%EF%BC%882025%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B%EF%BC%89.md)续了费，整个过程丝滑得让我意外。还记得没遇见它之前，我跟许多人一样，被国内支付渠道、实体信用卡风控折腾得头大。用了野卡，这些烦恼几乎一次性被消灭：门槛低、操作傻瓜化、不需要KYC，却能纵横全球 Visa / MasterCard 通道。下文将手把手示范 **注册、充值、使用和常见问题**，助你安全高效订阅各种海外服务，实现 AI 自由。
